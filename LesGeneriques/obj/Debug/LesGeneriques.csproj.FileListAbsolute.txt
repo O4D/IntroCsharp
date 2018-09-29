@@ -1,0 +1,7 @@
+D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesGeneriques\bin\Debug\LesGeneriques.exe.config
+D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesGeneriques\bin\Debug\LesGeneriques.exe
+D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesGeneriques\bin\Debug\LesGeneriques.pdb
+D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesGeneriques\obj\Debug\LesGeneriques.csprojAssemblyReference.cache
+D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesGeneriques\obj\Debug\LesGeneriques.csproj.CoreCompileInputs.cache
+D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesGeneriques\obj\Debug\LesGeneriques.exe
+D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesGeneriques\obj\Debug\LesGeneriques.pdb
