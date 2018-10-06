@@ -15,3 +15,4 @@ D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesDataTemplates\obj\D
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesDataTemplates\obj\Debug\LesDataTemplates.csproj.CoreCompileInputs.cache
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesDataTemplates\obj\Debug\LesDataTemplates.exe
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesDataTemplates\obj\Debug\LesDataTemplates.pdb
+D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesDataTemplates\obj\Debug\GeneratedInternalTypeHelper.g.cs

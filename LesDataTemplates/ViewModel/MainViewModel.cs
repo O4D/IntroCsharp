@@ -9,7 +9,7 @@ namespace LesDataTemplates.ViewModel
 {
     class MainViewModel
     {
-        public List<Square> Elements;
+        public List<Square> Elements { get; set; }
         public List<int> ElementsInt;
         public int UnInt = 1;
         public string UnString = "Lalala";

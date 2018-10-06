@@ -16,15 +16,12 @@ using System.Windows.Shapes;
 namespace LesDataTemplates.View
 {
     /// <summary>
-    /// Logique d'interaction pour UserControl1.xaml
+    /// Logique d'interaction pour MainView.xaml
     /// </summary>
     public partial class MainView : UserControl
     {
-        ViewModel.MainViewModel mvm;
         public MainView()
         {
-            mvm = new ViewModel.MainViewModel();
-            DataContext = mvm;
             InitializeComponent();
         }
     }

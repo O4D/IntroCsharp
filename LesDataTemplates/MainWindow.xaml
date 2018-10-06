@@ -3,17 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"        
         xmlns:local="clr-namespace:LesDataTemplates"
         xmlns:View="clr-namespace:LesDataTemplates.View"        
-        xmlns:VModel="clr-namespace:LesDataTemplates.ViewModel" 
         Title="MainWindow" Height="450" Width="800">
-    <ListView DataContext="{Binding VModel.Elements}" HorizontalAlignment="Left" Height="100" Margin="263,143,0,0" VerticalAlignment="Top" Width="373">
-        <ListView.View>
-            <GridView>
-                <GridViewColumn/>
-            </GridView>
-        </ListView.View>
-    </ListView>
-    <!--xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d"-->
-    <!--<View:MainView />-->
+    <View:MainView/>
 </Window>

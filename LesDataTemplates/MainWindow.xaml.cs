@@ -21,13 +21,10 @@ namespace LesDataTemplates
     /// </summary>
     public partial class MainWindow : Window
     {
-
-        ViewModel.MainViewModel mvm = new ViewModel.MainViewModel();
         public MainWindow()
         {
+            DataContext = new ViewModel.MainViewModel();
             InitializeComponent();
-            base.DataContext = mvm;
-
         }
     }
 }
