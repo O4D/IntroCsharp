@@ -13,17 +13,15 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace LesDataTemplates
+namespace LesDataTemplates.View
 {
-    
     /// <summary>
-    /// Logique d'interaction pour MainWindow.xaml
+    /// Logique d'interaction pour PopinView.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class PopinView : UserControl
     {
-        public MainWindow()
+        public PopinView()
         {
-            DataContext = new ViewModel.PopinViewModel();
             InitializeComponent();
         }
     }

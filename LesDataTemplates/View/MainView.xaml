@@ -4,8 +4,21 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:LesDataTemplates.View"
+             xmlns:Model="clr-namespace:LesDataTemplates.Model"
+             xmlns:ViewModel="clr-namespace:LesDataTemplates.ViewModel"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <DataTemplate DataType="{x:Type Model:Square}">
+            <Rectangle Width="30" Height="30" Fill="LightGreen" Margin="5" />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type Model:Circle}">
+            <Border Width="30" Height="30" Background="LightBlue" CornerRadius="15" Margin="5" />
+        </DataTemplate>
+        <!--<DataTemplate DataType="{x:Type ViewModel:PopinViewModel}">
+            <local:PopinView />
+        </DataTemplate>-->
+    </UserControl.Resources>
     <Grid>
         <ListView ItemsSource="{Binding Elements}">
             <ListView.View>
@@ -13,7 +26,9 @@
                     <GridViewColumn/>
                 </GridView>
             </ListView.View>
-        </ListView>
+        </ListView>    
 
     </Grid>
 </UserControl>
+<!--<Button Content="Button" HorizontalAlignment="Left" Margin="187,241,0,0" VerticalAlignment="Top" Width="75" Command="{Binding PopinCommand}"/>
+        <ContentControl Content="{Binding Popin}" Margin="187,289,194,0"/>-->

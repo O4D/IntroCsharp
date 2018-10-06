@@ -7,24 +7,38 @@ using LesDataTemplates.Model;
 
 namespace LesDataTemplates.ViewModel
 {
-    class MainViewModel
+    class MainViewModel// : BaseViewModel
     {
-        public List<Square> Elements { get; set; }
-        public List<int> ElementsInt;
-        public int UnInt = 1;
-        public string UnString = "Lalala";
+        public List<object> Elements { get; set; }
+        //public PopinViewModel Popin { get; set; }
+        //public RelayCommand<object> PopinCommand { get; set; }
 
         public MainViewModel()
         {
-            Elements = new List<Square>();
+            Elements = new List<object>();
             Elements.Add(new Square());
             Elements.Add(new Square());
+            Elements.Add(new Circle());
             Elements.Add(new Square());
+            Elements.Add(new Circle());
 
-            ElementsInt = new List<int>();
-            ElementsInt.Add(0);
-            ElementsInt.Add(1);
-            ElementsInt.Add(2);
+            //PopinCommand = new RelayCommand<object>(onPopin);
         }
+
+        //private void onPopin(object obj)
+        //{
+        //    if (Popin == null)
+        //    {
+        //        Popin = new PopinViewModel();
+        //        Popin.CloseHandler = ClosePopin;
+        //        Notify("Popin");
+        //    }
+        //}
+
+        //private void ClosePopin()
+        //{
+        //    Popin = null;
+        //    Notify("Popin");
+        //}
     }
 }
