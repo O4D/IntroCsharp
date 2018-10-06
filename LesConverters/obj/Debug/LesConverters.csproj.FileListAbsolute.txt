@@ -4,12 +4,10 @@ D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\obj\Debu
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\obj\Debug\LesConverters_MarkupCompile.cache
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\obj\Debug\LesConverters_MarkupCompile.lref
-D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\obj\Debug\UserControl1.g.cs
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\bin\Debug\LesConverters.exe.config
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\bin\Debug\LesConverters.exe
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\bin\Debug\LesConverters.pdb
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\obj\Debug\MainWindow.baml
-D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\obj\Debug\UserControl1.baml
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\obj\Debug\LesConverters.g.resources
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\obj\Debug\LesConverters.Properties.Resources.resources
 D:\Projets_en_cours\p_VisualStudio2017\IntroductionCsharp\LesConverters\obj\Debug\LesConverters.csproj.GenerateResource.cache
